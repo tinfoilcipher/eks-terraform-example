@@ -2,7 +2,7 @@
 variable "region" {
     type        = string
     description = "Primary Location"
-    default     = "eu-west-1"
+    default     = "eu-west-2"
 }
 
 # Namespace Names
